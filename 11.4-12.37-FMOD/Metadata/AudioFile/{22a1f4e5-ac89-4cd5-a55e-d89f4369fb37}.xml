@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{22a1f4e5-ac89-4cd5-a55e-d89f4369fb37}">
+		<property name="assetPath">
+			<value>DoorKnock-Kunckle.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.6249886621315193</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9a313104-298c-4b45-95c3-e761573e9de7}</destination>
+		</relationship>
+	</object>
+</objects>

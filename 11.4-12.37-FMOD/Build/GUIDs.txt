@@ -1,0 +1,17 @@
+{14fa1a76-8cb3-4812-9044-3f9c228abd2f} bank:/LivingRoomBank
+{22661e84-0bca-4d43-b2df-184c5e921899} bank:/Master
+{ba7b3e50-7ab1-0101-3496-92b2af611e01} bank:/Master.strings
+{47ba4396-aed8-4e80-8ee2-05192ba04b12} bus:/
+{ada9756c-2360-4c72-b5bd-e96ffd9f2a7d} bus:/Reverb
+{1c73225c-7fd4-40fb-ade4-5cc4befe2111} event:/Ambience
+{3c2badc7-f70d-4565-89b7-cca9c7ca2b71} event:/Bouncing Ball
+{f27ea4a4-7409-4516-ae95-1140b54f0854} event:/Breathing
+{d7b2c6e4-f960-48a0-b83b-09dea66a2636} event:/Door-Locked
+{30ae141e-3cd1-488b-b316-2f0bca4fb810} event:/DoorKnock
+{89aa9c2e-0466-4821-86d3-ca4aed14d127} event:/Lightbulb Buzz
+{0522dfa5-18b6-4245-aa42-307fd5f67baa} event:/Radio Jazz
+{12d87263-887e-4a8c-b251-9c995506a5bd} event:/TV-Static
+{ebdce18c-86de-4a23-bec1-5f1b2bb3d3e2} event:/Thunder
+{186ac257-3ce1-41b0-9dec-6dba95e65b4f} event:/Vase-Shatter
+{89c6e1d1-28d1-4b16-a345-4ffb09759eb3} event:/footsteps
+{11d737a4-c9eb-4207-b139-ac6d2b5e6815} parameter:/Material

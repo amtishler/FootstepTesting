@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c5bc52b2-2eb7-456b-bb27-91b337dbdc2b}">
+		<property name="assetPath">
+			<value>DoorKnock-Heavy.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9a313104-298c-4b45-95c3-e761573e9de7}</destination>
+		</relationship>
+	</object>
+</objects>
