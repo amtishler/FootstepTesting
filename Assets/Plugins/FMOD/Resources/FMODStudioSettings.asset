@@ -271,8 +271,8 @@ MonoBehaviour:
   SwitchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: 
-  sourceBankPath: 
+  sourceProjectPath: 11.4-12.37-FMOD/11.4-12.37-FMOD.fspro
+  sourceBankPath: 11.4-12.37-FMOD/Build
   SourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -294,8 +294,10 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks: []
-  Banks: []
+  MasterBanks:
+  - Master
+  Banks:
+  - LivingRoomBank
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
