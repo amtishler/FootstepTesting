@@ -93,14 +93,9 @@ public class PlayerController : MonoBehaviour
         if(Physics.Raycast(transform.position, Vector3.down, out foot, rayDistance))
         {
             Debug.Log(foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue);
-            if(foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue == 1)
+            if(foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue != 0)
             {
                 F_materialValue = foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue;
-            }
-            else if(foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue == 2)
-            {
-                F_materialValue = foot.collider.gameObject.GetComponent<MaterialSetter>().materialValue;
-                GM.incrementDoom();
             }
             else
             {

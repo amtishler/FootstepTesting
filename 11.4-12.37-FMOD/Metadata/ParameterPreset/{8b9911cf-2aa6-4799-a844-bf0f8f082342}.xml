@@ -16,12 +16,21 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>12</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Wood</value>
+			<value>Hard</value>
 			<value>Rug</value>
 			<value>Creak</value>
+			<value>Boat</value>
+			<value>Cat</value>
+			<value>Dirt</value>
+			<value>Grass</value>
+			<value>Man</value>
+			<value>Metal</value>
+			<value>Trash</value>
+			<value>Water</value>
+			<value>Wood</value>
 		</property>
 		<property name="isHeld">
 			<value>true</value>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9794b1ae-3e33-48ba-9f3b-2c5c92d7af3b}">
+		<property name="assetPath">
+			<value>Dirt3 - Trimmed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2335147392290249</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9a313104-298c-4b45-95c3-e761573e9de7}</destination>
+		</relationship>
+	</object>
+</objects>
